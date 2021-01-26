@@ -15,7 +15,7 @@ def _test_variable(name, reference, mod=SOLUTION):
         raise AssertionError(f"Solution file '{mod}' could not be imported")
     try:
         value = getattr(module, name)
-    except NameError:
+    except AttributeError:
         raise AssertionError(f"Solution file '{mod}' does not contain variable '{name}'.")
 
     assert value == pytest.approx(reference), f"{name}={value} is not correct"
