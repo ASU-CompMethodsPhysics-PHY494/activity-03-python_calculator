@@ -4,7 +4,7 @@ https://asu-compmethodsphysics-phy494.github.io/ASU-PHY494//2021/01/26/03_HelloW
 
 Create a file `solution.py` in which you evaluate the following mathematical expressions and assign them to variables `a`, `b`, ...
 
-(To view the mathematics nicely typeset, view the notebook [README.ipynb](README.ipynb).)
+(To view the mathematics nicely typeset, view the notebook [README.ipynb](README.ipynb) or as a PDF [README.pdf](README.pdf).)
 
 \begin{align}
 a &= -1 + 2  \\
