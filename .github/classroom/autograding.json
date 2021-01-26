@@ -1,0 +1,134 @@
+{
+  "tests": [
+    {
+      "name": "Test: a",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest tests/test_a.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Test: b",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest tests/test_b.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Test: c",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest tests/test_c.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+     {
+      "name": "Test: d",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest tests/test_d.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+     {
+      "name": "Test: e",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest tests/test_e.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+     {
+      "name": "Test: f",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest tests/test_f.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+     {
+      "name": "Test: g",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest tests/test_g.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+     {
+      "name": "Test: h",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest tests/test_h.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+     {
+      "name": "Test: i",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest tests/test_i.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+     {
+      "name": "Test: j",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest tests/test_j.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+     {
+      "name": "Test: k",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest tests/test_k.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+     {
+      "name": "Test: l",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest tests/test_l.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+     {
+      "name": "Test: m",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest tests/test_m.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },        
+  ]
+}
