@@ -1,6 +1,6 @@
 # Activity 03: Python as a Calculator
 
-![GitHub Classroom Workflow](../../workflows/GitHub%20Classroom%20Workflow/badge.svg?branch=master) ![Points badge](../../blob/badges/.github/badges/points.svg)
+![GitHub Classroom Workflow](../../workflows/GitHub%20Classroom%20Workflow/badge.svg?branch=main) ![Points badge](../../blob/badges/.github/badges/points.svg)
 
 
 https://asu-compmethodsphysics-phy494.github.io/ASU-PHY494//2021/01/26/03_HelloWorld/#activity-python-as-a-calculator
